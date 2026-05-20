@@ -230,8 +230,8 @@ common:
   timezone: Zeitzone
   version: Version
   theme: Design
-  light-mode: Heller Modus
-  dark-mode: Dunkler Modus
+  light-mode: Light Mode
+  dark-mode: Dark Mode
   update-available: Update verfügbar
   install-update: Update installieren
   maintenance-mode: Wartungsmodus
